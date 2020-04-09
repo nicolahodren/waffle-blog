@@ -7,11 +7,13 @@ if(run_setup == TRUE) {
   
   # tidyverse & blog down
   install.packages("tidyverse")
-  install.packages("blogdown")
+  install.packages("blogdown") #used to create blogs and websites
 
   # install slumdown from github
   install.packages("remotes")
-  remotes::install_github("djnavarro/slumdown")
+  remotes::install_github("djnavarro/slumdown") #creates the theme that we're going to use
+  # install_github allows you to download packages that are from github rather than
+  # the central r one 'cran'
   
   # to run addins
   install.packages("xtable")

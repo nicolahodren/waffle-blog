@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Slumdown</title>
@@ -6,10 +6,22 @@
     <description>Recent content in Home on Slumdown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A very waffly post about markdown</title>
+      <link>/post/a-very-waffly-post-about-waffles/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-very-waffly-post-about-waffles/</guid>
+      <description>I am learning to use markdown. Here are a few things I have learnt so far:
+Using bullet points  Bullet points  Numbered points   Images Inserting URL Writing equations  Insert image  To insert URL Inserting URL: https://placekitten.com
+To make a named link: Placekitten
+  To write an equation \[ 1 + 5 = 7 \] note: It does not have to be correct</description>
+    </item>
     
     <item>
       <title>Tutorial part 1: Getting started</title>

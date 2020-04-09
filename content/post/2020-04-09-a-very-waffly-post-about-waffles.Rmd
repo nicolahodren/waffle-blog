@@ -1,0 +1,33 @@
+---
+title: A very waffly post about markdown
+author: Nicola 
+date: '2020-04-09'
+slug: a-very-waffly-post-about-waffles
+categories: []
+tags: []
+---
+
+I am learning to use markdown. Here are a few things I have learnt so far:
+
+## Using bullet points
+
+- Bullet points
+1. Numbered points
+- Images
+- Inserting URL
+- Writing equations
+
+### Insert image
+
+![](https://placekitten.com/400/400)
+
+### To insert URL
+Inserting URL: https://placekitten.com
+
+To make a named link: [Placekitten](https://placekitten.com)
+
+## To write an equation 
+$$
+1 + 5 = 7
+$$
+note: It does not have to be correct
